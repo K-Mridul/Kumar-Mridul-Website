@@ -1,0 +1,31 @@
+How to make it a better version of what it is?
+
+    "Using the following features and trying to make it more modern and its algorithm more similar 
+    like the current websites - say Amazon, Zomato, etc or INNOVATIVE!"
+
+    {
+        -> adding the send email feature to the various aspects{
+            -> tickets booked
+            -> purchase done
+            -> contact me
+                
+                *With the details of the booking / purchase
+        }
+
+        -> make it real-time
+
+        -> give access to the users {
+            -> to change the things their way
+            -> to keep their favourites in the recent / somthing like that
+        }
+
+        -> admin authentication 
+
+        -> add feature of dark mode 
+
+        -> improve the Front-End  _________________X____________________
+
+        -> Add backend to the game
+
+        -> Add more features like games / stuff which seems like advertisement  
+    }
