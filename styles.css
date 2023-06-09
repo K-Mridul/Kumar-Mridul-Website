@@ -50,7 +50,7 @@ body,head{
 }
 .main-header{
     background-color: rgb(0, 0, 0,0.6);
-    background-image: url(images/wuuaobghtdllhliu.jpg);
+    background-image: url(./images/wuuaobghtdllhliu.jpg);
     background-size:cover;
     background-blend-mode: multiply;
     padding-bottom:30px ;
