@@ -1,14 +1,25 @@
 # Kumar-Mridul-Website
-Portfolio Website made using HTML, CSS & Javascript which involves Shopping Cart features like adding, removing and purchasing albums and goodies.
 
-The website has three pages of content: Home, About and Store.
+Portfolio Website made using HTML, CSS & JavaScript which includes shopping cart features like adding, removing, and purchasing albums and goodies.
 
-Home: It involves the recent recording Panel and ticket booking Table to buy tickets for live Shows with the show details. The navigation bar has HTML links to
-      interchange pages and the Footer Bar has links to Social Media - Youtube, Spotify and Instagram of the Artist.
-      
-Store: This page involves different sections having Albums, Merch and Goodies by the Artist FOR SALE which can be added to the Cart and the actions of ADD TO CART,REMOVE
-      FROM CART, CHANGE QUANTITY meanwhile the TOTAL gets changed and PURCHASING the cart items thereby EMPTYING THE CART.This all has been done using JAVASCRIPT. 
+## Website Overview
 
-About: The Third page involves the details about the artist with the CSS and designs kept similar to the other pages.
+The website consists of three main pages: Home, About, and Store.
 
-Thankyou!
+### Home
+- Features a recent recording panel and a ticket booking table for purchasing tickets to live shows with detailed show information.
+- Includes a navigation bar with HTML links for seamless page interchange.
+- The footer contains links to the artist's social media: YouTube, Spotify, and Instagram.
+
+### Store
+- Contains sections for albums, merchandise, and goodies available for sale.
+- Users can add items to the cart, remove items, change quantities, and see the total update in real-time.
+- The purchase functionality allows users to buy the items in their cart, which then empties the cart.
+- All shopping cart features are implemented using JavaScript.
+
+### About
+- Provides detailed information about the artist.
+- The CSS and design elements are consistent with the other pages for a unified look and feel.
+
+## Thank you for visiting!
+
